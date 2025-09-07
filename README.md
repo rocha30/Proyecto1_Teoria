@@ -1,1 +1,2 @@
-#Proyeto1 Teoria
+# Proyecto 1 Teoria de la Computación 
+
